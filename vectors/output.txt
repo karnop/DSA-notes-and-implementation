@@ -1,0 +1,15 @@
+Printing array in normal order : 1 2 3 4 5 
+Printing array in reverse order : 5 4 3 2 1 
+Size : 5
+Max Size : 536870911
+Capacity : 8
+
+Size : 5
+Max Size : 536870911
+Capacity : 5
+v.front() : 1
+v.back() : 5
+
+filling the same array with 10 five times
+5 5 5 5 5 5 5 5 5 5 
+ prints the vector like arrays : 5 5 5 5 5 5 5 5 5 5 Inserting 10 at beginning : 10 5 5 5 5 5 5 5 5 5 5 
