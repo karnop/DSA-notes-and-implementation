@@ -1,0 +1,9 @@
+No Node Exists Currently!!!
+List : 1 2 3
+1 is at node number 2
+2 is at node number 3
+4 Not Found !
+5 Not Found !
+List : -2 -1 0 1 2 3
+List : -2 0 1 2 3
+List : -2 2 0 1 2 3
